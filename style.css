@@ -11,11 +11,24 @@ img.img {
 }
 
 button {
-     font-size: 20px;
+     font-size: 40px;
      background-color: hsl(180, 100%, 70%);
      color: hsl(180, 50%, 20%);
+     margin: 10px;
+}
+
+div {
+     text-align: center;
 }
 
 h1 {
      text-align: center;
+}
+
+#webname {
+     font-size: 80px;
+}
+
+.recipe-button {
+     font-size: 20px;
 }
