@@ -3,7 +3,19 @@
      
 }
 
+img.img {
+     height: auto;
+     width: auto;
+     display: block;
+     margin: 0 auto;
+}
+
 button {
      font-size: 20px;
-     
+     background-color: hsl(180, 100%, 70%);
+     color: hsl(180, 50%, 20%);
+}
+
+h1 {
+     text-align: center;
 }
